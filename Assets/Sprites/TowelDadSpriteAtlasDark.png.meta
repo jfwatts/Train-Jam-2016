@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: e4a11aca0994340a4a0f3730a8b27a1d
+timeCreated: 1457765902
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TowelDadSpriteAtlasGeneric_0
+    21300002: TowelDadSpriteAtlasGeneric_1
+    21300004: TowelDadSpriteAtlasGeneric_2
+    21300006: TowelDadSpriteAtlasGeneric_3
+    21300008: TowelDadSpriteAtlasGeneric_4
+    21300010: TowelDadSpriteAtlasGeneric_6
+    21300012: TowelDadSpriteAtlasDark_7
+    21300014: TowelDadSpriteAtlasGeneric_8
+    21300016: TowelDadSpriteAtlasGeneric_9
+    21300018: TowelDadSpriteAtlasGeneric_10
+    21300020: TowelDadSpriteAtlasGeneric_11
+    21300022: TowelDadSpriteAtlasDark_12
+    21300024: TowelDadSpriteAtlasGeneric_13
+    21300026: TowelDadSpriteAtlasGeneric_14
+    21300028: TowelDadSpriteAtlasGeneric_15
+    21300030: TowelDadSpriteAtlasGeneric_16
+    21300032: TowelDadSpriteAtlasGeneric_17
+    21300034: TowelDadSpriteAtlasGeneric_18
+    21300036: TowelDadSpriteAtlasGeneric_21
+    21300038: TowelDadSpriteAtlasGeneric_24
+    21300040: TowelDadSpriteAtlasGeneric_25
+    21300042: TowelDadSpriteAtlasGeneric_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TowelDadSpriteAtlasGeneric_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 872
+        width: 92
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4193869, y: 0.07479309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.583595, y: 92.52069}
+        - {x: -38.583595, y: 55.52069}
+        - {x: -38.583595, y: 15.520691}
+        - {x: -21.583595, y: -7.479309}
+        - {x: 45.416405, y: -7.479309}
+        - {x: 53.416405, y: 13.520691}
+        - {x: 53.416405, y: 84.52069}
+        - {x: 29.416405, y: 92.52069}
+    - name: TowelDadSpriteAtlasGeneric_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 932
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4155854, y: 0.44381574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.0390015, y: 24.472107}
+        - {x: -4.0390015, y: 21.472107}
+        - {x: -6.0390015, y: 11.472107}
+        - {x: -6.0390015, y: -3.527893}
+        - {x: 19.960999, y: -3.527893}
+        - {x: 23.960999, y: -2.527893}
+        - {x: 23.960999, y: 22.472107}
+        - {x: 19.960999, y: 24.472107}
+    - name: TowelDadSpriteAtlasGeneric_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 940
+        width: 94
+        height: 69
+      alignment: 9
+      pivot: {x: 0.08973077, y: 0.048568062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.565308, y: 65.6488}
+        - {x: -8.434692, y: 43.648804}
+        - {x: -8.434692, y: 0.6488037}
+        - {x: -6.4346924, y: -3.3511963}
+        - {x: 43.565308, y: -3.3511963}
+        - {x: 56.565308, y: 0.6488037}
+        - {x: 85.56531, y: 23.648804}
+        - {x: 85.56531, y: 46.648804}
+        - {x: 50.565308, y: 65.6488}
+    - name: TowelDadSpriteAtlasGeneric_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 851
+        width: 78
+        height: 57
+      alignment: 9
+      pivot: {x: 0.12155112, y: 0.052235387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.519012, y: 54.022583}
+        - {x: 2.5190125, y: 44.022583}
+        - {x: -8.480988, y: 21.022583}
+        - {x: -8.480988, y: 6.022583}
+        - {x: -4.4809875, y: 4.022583}
+        - {x: 33.519012, y: 4.022583}
+        - {x: 68.51901, y: 35.022583}
+        - {x: 68.51901, y: 54.022583}
+    - name: TowelDadSpriteAtlasGeneric_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 838
+        width: 115
+        height: 90
+      alignment: 9
+      pivot: {x: 0.09156016, y: 0.35167235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.529419, y: -2.6505127}
+        - {x: -7.529419, y: -4.6505127}
+        - {x: -10.529419, y: -13.650513}
+        - {x: -10.529419, y: -29.650513}
+        - {x: 12.470581, y: -29.650513}
+        - {x: 12.470581, y: -4.6505127}
+        - {x: 7.470581, y: -2.6505127}
+      - - {x: 104.47058, y: 52.349487}
+        - {x: 101.47058, y: 54.349487}
+        - {x: 67.47058, y: 58.349487}
+        - {x: 20.470581, y: 58.349487}
+        - {x: 1.470581, y: 44.349487}
+        - {x: -4.529419, y: 18.349487}
+        - {x: -4.529419, y: 3.3494873}
+        - {x: 0.47058105, y: 1.3494873}
+        - {x: 7.470581, y: 1.3494873}
+        - {x: 12.470581, y: 10.349487}
+        - {x: 78.47058, y: 24.349487}
+        - {x: 104.47058, y: 38.349487}
+    - name: TowelDadSpriteAtlasGeneric_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 742
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.9140824, y: 0.89811015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.126595, y: -69.15448}
+        - {x: -54.126595, y: -69.15448}
+        - {x: 6.8734055, y: -30.15448}
+        - {x: 6.8734055, y: 7.84552}
+        - {x: -20.126595, y: 7.84552}
+        - {x: -73.126595, y: -30.15448}
+    - name: TowelDadSpriteAtlasDark_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 646
+        width: 103
+        height: 181
+      alignment: 9
+      pivot: {x: 0.6363389, y: 0.20308319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.542908, y: 144.24194}
+        - {x: -60.542908, y: 106.24194}
+        - {x: -60.542908, y: 7.2419434}
+        - {x: -59.542908, y: -12.758057}
+        - {x: -44.542908, y: -27.758057}
+        - {x: -27.542908, y: -34.758057}
+        - {x: -0.5429077, y: -34.758057}
+        - {x: 25.457092, y: -20.758057}
+        - {x: 25.457092, y: 116.24194}
+        - {x: -9.542908, y: 144.24194}
+    - name: TowelDadSpriteAtlasGeneric_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 744
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.16008139, y: 0.8875238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.754791, y: 8.323242}
+        - {x: -10.245209, y: 8.323242}
+        - {x: -10.245209, y: -12.676758}
+        - {x: 36.75479, y: -65.67676}
+        - {x: 53.75479, y: -65.67676}
+        - {x: 53.75479, y: -43.676758}
+        - {x: 26.754791, y: -8.676758}
+    - name: TowelDadSpriteAtlasGeneric_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 644
+        width: 53
+        height: 68
+      alignment: 9
+      pivot: {x: 0.1641629, y: 0.92171705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.700634, y: 5.323242}
+        - {x: -8.700634, y: -45.676758}
+        - {x: -4.700634, y: -61.676758}
+        - {x: -0.700634, y: -62.676758}
+        - {x: 36.299366, y: -62.676758}
+        - {x: 44.299366, y: -57.676758}
+        - {x: 44.299366, y: -28.676758}
+        - {x: 14.299366, y: 5.323242}
+    - name: TowelDadSpriteAtlasGeneric_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 652
+        width: 40
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75957334, y: 0.89399624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3829346, y: 6.7842407}
+        - {x: -30.382935, y: -22.21576}
+        - {x: -30.382935, y: -48.21576}
+        - {x: -25.382935, y: -57.21576}
+        - {x: 9.617065, y: -57.21576}
+        - {x: 9.617065, y: 6.7842407}
+    - name: TowelDadSpriteAtlasGeneric_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 431
+        width: 37
+        height: 102
+      alignment: 9
+      pivot: {x: 0.633629, y: 0.9120226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.444275, y: 8.973694}
+        - {x: -15.444275, y: 7.973694}
+        - {x: -23.444275, y: -47.026306}
+        - {x: -23.444275, y: -93.026306}
+        - {x: 3.555725, y: -93.026306}
+        - {x: 13.555725, y: -88.026306}
+        - {x: 13.555725, y: 8.973694}
+    - name: TowelDadSpriteAtlasDark_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 416
+        width: 103
+        height: 181
+      alignment: 9
+      pivot: {x: 0.6303353, y: 0.20581359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.07547, y: 140.74774}
+        - {x: -4.92453, y: 143.74774}
+        - {x: -29.92453, y: 143.74774}
+        - {x: -51.92453, y: 88.74774}
+        - {x: -61.92453, y: 55.74774}
+        - {x: -61.92453, y: -10.252258}
+        - {x: -46.92453, y: -37.25226}
+        - {x: 11.07547, y: -37.25226}
+        - {x: 36.07547, y: -20.252258}
+        - {x: 38.07547, y: -7.2522583}
+        - {x: 38.07547, y: 46.74774}
+    - name: TowelDadSpriteAtlasGeneric_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 440
+        width: 32
+        height: 97
+      alignment: 9
+      pivot: {x: 0.3609419, y: 0.8924831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.44986, y: 10.429138}
+        - {x: -3.5501404, y: 10.429138}
+        - {x: -11.55014, y: 2.4291382}
+        - {x: -11.55014, y: -36.57086}
+        - {x: -8.55014, y: -75.57086}
+        - {x: 5.4498596, y: -86.57086}
+        - {x: 16.44986, y: -86.57086}
+        - {x: 20.44986, y: -80.57086}
+        - {x: 20.44986, y: -49.57086}
+        - {x: 15.44986, y: 9.429138}
+    - name: TowelDadSpriteAtlasGeneric_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 328
+        width: 40
+        height: 74
+      alignment: 9
+      pivot: {x: 0.28986853, y: 0.90756845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.594742, y: 6.8399353}
+        - {x: -11.594742, y: -9.160065}
+        - {x: 6.405258, y: -60.160065}
+        - {x: 14.405258, y: -67.160065}
+        - {x: 20.405258, y: -67.160065}
+        - {x: 28.405258, y: -63.160065}
+        - {x: 28.405258, y: -26.160065}
+        - {x: 16.405258, y: 6.8399353}
+    - name: TowelDadSpriteAtlasGeneric_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 100
+        height: 91
+      alignment: 9
+      pivot: {x: 0.7719348, y: 0.87489504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.19348, y: 11.384552}
+        - {x: -77.19348, y: -67.61545}
+        - {x: -53.19348, y: -79.61545}
+        - {x: 22.806519, y: -79.61545}
+        - {x: 22.806519, y: 10.384552}
+        - {x: 21.806519, y: 11.384552}
+    - name: TowelDadSpriteAtlasGeneric_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 320
+        width: 28
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5882917, y: 0.9355672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TowelDadSpriteAtlasGeneric_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 246
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7512661, y: 0.87456626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.172768, y: 4.1393127}
+        - {x: -12.827232, y: 4.1393127}
+        - {x: -44.827232, y: -5.8606873}
+        - {x: -45.827232, y: -8.860687}
+        - {x: -45.827232, y: -28.860687}
+        - {x: 4.1727676, y: -28.860687}
+        - {x: 10.172768, y: -27.860687}
+        - {x: 15.172768, y: -22.860687}
+        - {x: 15.172768, y: -6.8606873}
+        - {x: 13.172768, y: 2.1393127}
+    - name: TowelDadSpriteAtlasGeneric_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 247
+        width: 64
+        height: 35
+      alignment: 9
+      pivot: {x: 0.20643377, y: 0.83903635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.788239, y: 5.633728}
+        - {x: -7.2117615, y: 5.633728}
+        - {x: -13.211761, y: 2.633728}
+        - {x: -13.211761, y: -29.366272}
+        - {x: 50.78824, y: -29.366272}
+        - {x: 50.78824, y: -12.366272}
+        - {x: 47.78824, y: -4.366272}
+    - name: TowelDadSpriteAtlasGeneric_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 123
+        width: 73
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5677296, y: 0.46985197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.44426, y: 43.472137}
+        - {x: -41.44426, y: 20.472137}
+        - {x: -41.44426, y: -33.527863}
+        - {x: -37.44426, y: -38.527863}
+        - {x: 17.55574, y: -38.527863}
+        - {x: 24.55574, y: -36.527863}
+        - {x: 31.55574, y: -21.527863}
+        - {x: 31.55574, y: 15.472137}
+        - {x: 8.55574, y: 43.472137}
+    - name: TowelDadSpriteAtlasGeneric_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 132
+        width: 52
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6616393, y: 0.50000066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.405243, y: 21.999954}
+        - {x: -3.405243, y: 16.999954}
+        - {x: -4.405243, y: 22.999954}
+        - {x: -11.405243, y: 30.999954}
+        - {x: -30.405243, y: 30.999954}
+        - {x: -30.405243, y: -8.000046}
+        - {x: -16.405243, y: -32.000046}
+        - {x: 11.594757, y: -32.000046}
+        - {x: 17.594757, y: -7.000046}
+        - {x: 17.594757, y: 26.999954}
+        - {x: -1.4052429, y: 25.999954}
+    - name: TowelDadSpriteAtlasGeneric_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 129
+        width: 73
+        height: 83
+      alignment: 9
+      pivot: {x: 0.62191355, y: 0.48808655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.600311, y: 42.488815}
+        - {x: -39.39969, y: 42.488815}
+        - {x: -45.39969, y: 40.488815}
+        - {x: -45.39969, y: 13.488815}
+        - {x: -40.39969, y: 9.488815}
+        - {x: -35.39969, y: 7.4888153}
+        - {x: -31.399689, y: 7.4888153}
+        - {x: -28.399689, y: 8.488815}
+        - {x: -22.399689, y: 13.488815}
+        - {x: -25.399689, y: 11.488815}
+        - {x: -28.399689, y: 6.4888153}
+        - {x: -44.39969, y: 7.4888153}
+        - {x: -45.39969, y: 5.4888153}
+        - {x: -45.39969, y: -20.511185}
+        - {x: -30.399689, y: -32.511185}
+        - {x: -14.399689, y: -35.511185}
+        - {x: 11.600311, y: -35.511185}
+        - {x: 25.600311, y: -26.511185}
+        - {x: 27.600311, y: -20.511185}
+        - {x: 27.600311, y: 10.488815}
+    - name: TowelDadSpriteAtlasGeneric_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 127
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: 0.60815585, y: 0.5727099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.9219742, y: 9.055725}
+        - {x: -3.9219742, y: 3.055725}
+        - {x: -2.9219742, y: -1.9442749}
+        - {x: 0.07802582, y: -5.944275}
+        - {x: 3.0780258, y: -6.944275}
+        - {x: 7.078026, y: -6.944275}
+        - {x: 1.0780258, y: -6.944275}
+        - {x: -2.9219742, y: -3.944275}
+        - {x: -7.921974, y: -3.944275}
+        - {x: -9.921974, y: -5.944275}
+        - {x: -9.921974, y: -9.944275}
+        - {x: -7.921974, y: -15.944275}
+        - {x: -7.921974, y: -14.944275}
+        - {x: -10.921974, y: -8.944275}
+        - {x: -19.921974, y: -9.944275}
+        - {x: -22.921974, y: -21.944275}
+        - {x: -22.921974, y: -26.944275}
+        - {x: -11.921974, y: -31.944275}
+        - {x: 14.078026, y: -31.944275}
+        - {x: 19.078026, y: -23.944275}
+        - {x: 19.078026, y: 9.055725}
+      - - {x: -5.921974, y: 9.055725}
+        - {x: -23.921974, y: 9.055725}
+        - {x: -28.921974, y: 5.055725}
+        - {x: -28.921974, y: 0.055725098}
+        - {x: -26.921974, y: -0.9442749}
+        - {x: -16.921974, y: -0.9442749}
+        - {x: -6.921974, y: 1.0557251}
+        - {x: -4.921974, y: 2.055725}
+        - {x: -4.921974, y: 7.055725}
+      - - {x: -28.921974, y: 20.055725}
+        - {x: -29.921974, y: 17.055725}
+        - {x: -29.921974, y: 11.055725}
+        - {x: -5.921974, y: 11.055725}
+        - {x: -4.921974, y: 12.055725}
+        - {x: -4.921974, y: 20.055725}
+      - - {x: 0.07802582, y: 20.055725}
+        - {x: -0.9219742, y: 18.055725}
+        - {x: -0.9219742, y: 14.055725}
+        - {x: 2.0780258, y: 12.055725}
+        - {x: 15.078026, y: 12.055725}
+        - {x: 15.078026, y: 20.055725}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
