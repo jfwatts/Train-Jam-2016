@@ -100,6 +100,6 @@ public class GameController : MonoBehaviour {
         yield return new WaitForSeconds(6.0f);
         results.GetComponentInChildren<Text>().text = "You partied for\n" + GetTime() + " seconds";
         results.SetActive(true);
-        //Time.timeScale = 0;
+        Time.timeScale = 0;
     }
 }

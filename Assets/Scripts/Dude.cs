@@ -88,6 +88,7 @@ public class Dude : MonoBehaviour{
             // TODO: Tell the controller
             // we're about to be destroyed
             gc.DudeDead();
+			ChillLevel = 0;
             
         }
         

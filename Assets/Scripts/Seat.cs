@@ -3,7 +3,9 @@ using System.Collections;
 
 public class Seat : MonoBehaviour {
     
-    bool occupied = false;
+    public bool occupied = false;
+
+	public int id = 0;
     
 	// Use this for initialization
 	void Start () {

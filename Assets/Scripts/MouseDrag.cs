@@ -14,10 +14,11 @@ public class MouseDrag : MonoBehaviour {
     Seat seat;
 	
     AnimationScript aniScript;
-	
+	public int id;
     
     void Start(){
         aniScript = GetComponentInChildren<AnimationScript>();
+		id = Random.Range (1, 100);
     }
     
 	// Update is called once per frame
@@ -50,10 +51,11 @@ public class MouseDrag : MonoBehaviour {
         if(other.tag == "Seat"){
             seat = other.GetComponent<Seat>();
             // no one is in the seat
-            if(!seat.Occupied){
+			if(!seat.Occupied && seat.id != id){
                 transform.position = other.transform.position;
                 snapped = true;
                 seat.Occupied = true;
+				seat.id = id;
                 inHotTub = true;
                 //aniScript.pickedUpStanding = false;
                 onsnap = true;
@@ -64,9 +66,10 @@ public class MouseDrag : MonoBehaviour {
     
     void OnTriggerExit2D(Collider2D other){
         if(other.tag == "Seat"){
-            if(seat.Occupied && onsnap){
+			if(seat.Occupied && seat.id == id && onsnap){
                 seat.Occupied = false;
                 inHotTub = false;
+				seat.id = 0;
                 aniScript.pickedUpFromTub = true;
             }
         }
