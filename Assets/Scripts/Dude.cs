@@ -53,7 +53,7 @@ public class Dude : MonoBehaviour{
         // the emoji
         // I might not have to do this if Drad's has set it up in
         // her animation
-        gc.AdjustMood(chill);
+        //gc.AdjustMood(chill);
         fuScript.happinessLevel = chill;
         //Debug.Log("Chaning Chill: " + chill);
     }
@@ -92,7 +92,7 @@ public class Dude : MonoBehaviour{
         }
         
         if(ChillLevel <= -20){
-            //Destroy(gameObject);
+            Destroy(gameObject);
         }
     }
     

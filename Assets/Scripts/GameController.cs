@@ -13,7 +13,7 @@ public class GameController : MonoBehaviour {
     
     public GameObject healthBar;
 
-    public float numOfDudes = 8;
+    public int numOfDudes = 8;
     
     AudioManager am;
     
@@ -52,6 +52,9 @@ public class GameController : MonoBehaviour {
             // OR AT LEAST HIDE THE METERS
             //Time.timeScale = 0;
         //}
+        if(numOfDudes <= 6){
+            StartCoroutine(GameOver());
+        }
 	}
     
     public int GetTime(){
@@ -66,20 +69,19 @@ public class GameController : MonoBehaviour {
             return;
         }
         Image img = healthBar.GetComponent<Image>();
-        img.fillAmount = mood;
+        img.fillAmount = (mood/100);
         
     }
     
     // The dude is dead, do something to the mood
     public void DudeDead(){
+       Debug.Log("Dude Dead");
+       
         numOfDudes = numOfDudes - 1;
-        Debug.Log(gameMood);
+        Debug.Log("ND: " + numOfDudes);
+        Debug.Log("GM: " + gameMood);
         gameMood = gameMood - 20;
         AdjustMood(gameMood);
-        
-        if(numOfDudes <= 6){
-            GameOver();
-        }
     }
     
     /*float CalcGameMood(){
@@ -94,7 +96,10 @@ public class GameController : MonoBehaviour {
         return (mood / dudes.Count);
     }*/
     
-    void GameOver(){
-        results.GetComponentInChildren<Text>().text = "You partied for\n" + GetTime();
+    IEnumerator GameOver(){
+        yield return new WaitForSeconds(6.0f);
+        results.GetComponentInChildren<Text>().text = "You partied for\n" + GetTime() + " seconds";
+        results.SetActive(true);
+        //Time.timeScale = 0;
     }
 }
